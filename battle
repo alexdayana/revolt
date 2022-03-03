@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7453125654529874/3036100607",
+			"native": "ca-app-pub-7453125654529874/8096855597",
+			"interstitial": "ca-app-pub-7453125654529874/4327456388"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1355917-2",
+			"native": "R-M-1355917-3",
+			"interstitial": "R-M-1355917-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.goodteam.animalrevoltbattle",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": " tricks and tips for the Baby in yellow 2 or baby in pink is one of the most highly-anticipated adventures titles of all time. The Baby in Yellow is a creepy little babysitting horror game where you have to look after a particularly unruly baby sister 2. But, things can turn into a nightmare and start to go wrong and the little baby girl in pink reveals that she is actually super scary! In this spooky baby beast boy " 
+},
+		{
+"title": "Guide 2",
+			"description": " be ready because scary baby in yellow house game wants every work on time otherwise his mode will change and he will go for you like ghost in creepy games. You have to save all yellow baby sister from dark house in the street of creepy ghost house games As a nanny of scary BABY, you have had to deal with unruly children. You have to do tasks timely in this yellow ghost game otherwise be ready for nightmares like in other horror games for kids. The dark baby in yellow games is rated as one of the scariest games of this epoch that you can must "
+		},
+		{
+"title": "Guide 3",
+"description": " This game is under the title The Baby in Yellow act 2 arrangement obviously with creepy gameplay and music with scary game space. Professing to be a conveying game in which you'll need to treat the yellow baby child and cause him to rest easy thinking about satisfying his essential requirements.  "
+		},
+		{
+"title": "Guide 4  ",
+"description": "  The baby in yellow 2 app Tips, it will help you to know everything about the baby in yellow but a girl.you will find many tricks and walkthroughs. we hope that with New guide of the baby in yellow and baby in pink sister full gameplay you become good at playing it.  "
+		},
+		{
+"title": "Guide 5",
+"description": "This Guide for The Baby in yellow 2 will bring you more fun to play this Adventure game. In this application you will find several tips and tricks to complete the Baby in yellow beast boy solutions. Download it now for FREE like another users and be the best. On top of that, unexpected surprises can arise just like in all scary nightmares the scary baby sisterin pink can take control of the whole yellow house! Who will be the survivor until the end? Scary gamer or baby.   "
+		}
+	]
+}
